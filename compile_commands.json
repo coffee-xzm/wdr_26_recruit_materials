@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/eigen3",
+      "-o",
+      "kalman",
+      "kalman.cpp"
+    ],
+    "directory": "/home/coffee/26_recruit",
+    "file": "/home/coffee/26_recruit/kalman.cpp",
+    "output": "/home/coffee/26_recruit/kalman"
+  }
+]
